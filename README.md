@@ -1,10 +1,10 @@
 Hi, I don't know how to code😭
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=PatrickL546&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=graywhite&bg_color=0,e2619a,fe7db6,ffb3d4" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=PatrickL546&show_icons=true&hide_title=true&include_all_commits=true&count_private=true&theme=graywhite&bg_color=0,e2619a,ffb3d4" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickL546&hide_title=true&theme=graywhite&bg_color=0,fe7db6,ffb3d4" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickL546&hide_title=true&theme=graywhite&bg_color=0,ffb3d4,fcc2dc" />
 </a>
                                                                                              
 <!---
